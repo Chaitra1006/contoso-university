@@ -1,7 +1,6 @@
 name: Pack Conotoso_University
 on:
-  push:
-    branches: [main]
+  push:    
     paths:
       - contents/**
   workflow_dispatch:
