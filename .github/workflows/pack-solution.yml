@@ -1,6 +1,7 @@
 name: Pack Conotoso_University
 on:
   push:
+   branches: [main]
     paths:
       - contents/**
 
