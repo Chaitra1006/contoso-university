@@ -22,4 +22,4 @@ jobs:
           environment-url: https://orgea996e9e.crm.dynamics.com/
           user-name: ${{ secrets.USERNAME }}
           password-secret: ${{ secrets.PASSWORD }}
-          solution-file: Contoso_University.zip
+          solution-file: DevSolution.zip
